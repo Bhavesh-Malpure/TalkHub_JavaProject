@@ -78,8 +78,3 @@ java_group_chat/
 4. Start chatting in group or initiate a private chat by selecting a user.
 
 ---
-
-## **Suggestions**
-- Add **screenshots** of the application interface for better presentation.  
-- Include a **"Getting Started" section** with detailed setup steps.  
-- Add a **"Contributors" section** to credit the developer(s).
