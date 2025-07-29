@@ -270,7 +270,7 @@ public class ChatClientGUI extends JFrame {
         } catch (IOException ignored) {}
     }
 
-    // ---------- Private Chat Window (peach themed with header) ----------
+    // Private Chat Window (peach themed with header)
     private class PrivateChatWindow extends JFrame {
         private final String otherUser;
         private final JTextPane dmPane;
